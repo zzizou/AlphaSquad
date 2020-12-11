@@ -1,2 +1,2 @@
-# AlphaSquad
+
 Created with CodeSandbox
